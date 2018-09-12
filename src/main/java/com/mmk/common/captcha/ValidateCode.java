@@ -81,7 +81,7 @@ public class ValidateCode {
 	 *            传递验证码
 	 * @return 生成的图像
 	 */
-	public BufferedImage CreateImage(String sCode) {
+	public BufferedImage createImage(String sCode) {
 		try {
 
 			// 字符的字体
